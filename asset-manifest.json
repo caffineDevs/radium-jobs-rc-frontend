@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/radium-jobs-rc-frontend/static/css/main.625881e2.chunk.css",
+    "main.js": "/radium-jobs-rc-frontend/static/js/main.6229cce3.chunk.js",
+    "main.js.map": "/radium-jobs-rc-frontend/static/js/main.6229cce3.chunk.js.map",
+    "runtime-main.js": "/radium-jobs-rc-frontend/static/js/runtime-main.35ce6b1f.js",
+    "runtime-main.js.map": "/radium-jobs-rc-frontend/static/js/runtime-main.35ce6b1f.js.map",
+    "static/css/2.aadf4dac.chunk.css": "/radium-jobs-rc-frontend/static/css/2.aadf4dac.chunk.css",
+    "static/js/2.c937931d.chunk.js": "/radium-jobs-rc-frontend/static/js/2.c937931d.chunk.js",
+    "static/js/2.c937931d.chunk.js.map": "/radium-jobs-rc-frontend/static/js/2.c937931d.chunk.js.map",
+    "static/js/3.b796cab8.chunk.js": "/radium-jobs-rc-frontend/static/js/3.b796cab8.chunk.js",
+    "static/js/3.b796cab8.chunk.js.map": "/radium-jobs-rc-frontend/static/js/3.b796cab8.chunk.js.map",
+    "index.html": "/radium-jobs-rc-frontend/index.html",
+    "static/css/2.aadf4dac.chunk.css.map": "/radium-jobs-rc-frontend/static/css/2.aadf4dac.chunk.css.map",
+    "static/css/main.625881e2.chunk.css.map": "/radium-jobs-rc-frontend/static/css/main.625881e2.chunk.css.map",
+    "static/js/2.c937931d.chunk.js.LICENSE.txt": "/radium-jobs-rc-frontend/static/js/2.c937931d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35ce6b1f.js",
+    "static/css/2.aadf4dac.chunk.css",
+    "static/js/2.c937931d.chunk.js",
+    "static/css/main.625881e2.chunk.css",
+    "static/js/main.6229cce3.chunk.js"
+  ]
+}
