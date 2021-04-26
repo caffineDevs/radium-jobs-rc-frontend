@@ -1,0 +1,73 @@
+.rating-stats {
+  .progress {
+    margin: 0.5rem auto;
+    border-radius: 50rem !important;
+  }
+}
+.userinfo {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  border-radius: 100%;
+
+  img {
+    width: 100px;
+  }
+}
+
+.comment {
+  margin: 1rem auto;
+  background: #f2f5fa;
+  border-radius: 4px;
+  .userContainer {
+    border-radius: 4px;
+    padding: 0.5rem 2rem;
+    background: white;
+    margin: .5rem;
+  }
+  .imgContainer {
+    cursor: pointer;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    border-radius: 100%;
+    border: 2px solid #d3d3d3;
+    img {
+      width: 150px;
+    }
+  }
+  .timeStamp {
+    font-size: 12px;
+  }
+
+  .userInfo {
+    width: 100px;
+  }
+
+  .avatarName {
+    color: #009fff;
+  }
+  .timeStamp {
+    color: #536777;
+  }
+  .rhs {
+    padding: 1rem;
+    .briefComment {
+      font-weight: 600;
+      line-height: 1;
+    }
+  }
+  .mainCommentText {
+    color: #536777;
+  }
+}
+
+.numberTxt{
+    font-size: 60px;
+    font-family: 'open sans';
+    line-height: 1;
+}
+
+.progress{
+    width: 100%;
+}

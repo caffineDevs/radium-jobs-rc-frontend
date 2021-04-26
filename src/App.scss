@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import "react-loader-spinner/dist/loader/css/react-spinner-loader.css";
+
+body {
+  background-color: rgb(242, 245, 250);
+}
+
+.y-center {
+  display: flex;
+  align-items: center;
+}
+.x-center {
+  display: flex;
+  justify-content: center;
+}
+.ml-n1 {
+  margin-left: -0.1rem !important;
+}
+
+.mr-n1 {
+  margin-right: -0.1rem !important;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.card-container {
+  background-color: #fff;
+  box-shadow: 0 1px 2px 0 rgba(0, 106, 194, 0.2);
+  border: 1px solid #ebf0f6;
+  border-radius: 4px;
+  padding: 1rem;
+  margin: 0.5rem auto;
+}
+
+.trans-center {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}

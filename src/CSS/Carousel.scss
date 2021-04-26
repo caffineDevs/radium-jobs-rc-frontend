@@ -1,0 +1,129 @@
+.carousel-dark .carousel-indicators li {
+  border-radius: 100%;
+  width: 15px;
+  height: 15px;
+  margin: 10px;
+}
+.container-fluid.jobCardsContainer {
+  max-width: 615px;
+}
+.jobCard {
+  background-color: #fff;
+  box-shadow: 0 1px 2px 0 rgba(0, 106, 194, 0.2);
+  border: 1px solid #ebf0f6;
+  border-radius: 4px;
+  //   margin: 0.25rem;
+  //   padding: 0.5rem;
+  &:hover {
+    box-shadow: 0 3px 8px 0 rgba(0, 106, 194, 0.2);
+    cursor: pointer;
+  }
+
+  .rhs {
+    // height: fit-content;
+    img {
+      //   height: 50px;
+      width: 50px;
+    }
+  }
+  .lhs {
+    color: #009fff;
+    .jobTitle {
+      font-family: "Poppins";
+      font-size: 16px;
+      font-weight: 500;
+    }
+    .companyName {
+      font-family: "Open Sans";
+      font-size: 12px;
+      font-weight: 300;
+      color: #00accafa;
+    }
+  }
+}
+
+.jdLogo {
+  svg {
+    height: 16px;
+    path {
+      color: #536777;
+    }
+  }
+}
+.descriptionText {
+  font-family: "Open Sans";
+  font-size: 12px;
+  font-weight: 300;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  color: #536777;
+}
+
+svg.svg-inline--fa {
+  height: 16px;
+  path {
+    color: #536777;
+  }
+}
+
+.infoText {
+  font-family: "Open Sans";
+  font-size: 12px;
+  font-weight: 300;
+  color: #536777;
+}
+.hashtagPill.badge.badge-pill.badge-warning {
+  font-family: "Open Sans";
+  font-size: 12px;
+  font-weight: 300;
+  color: #000000;
+  padding-right: 0.6em;
+  padding-left: 0.6em;
+  border-radius: 10rem;
+  background-color: lighten(#ffe493, 5%);
+  span {
+    color: darken(#ffe493, 40%);
+  }
+}
+.hashtagPill.badge.badge-pill.badge-success {
+  background-color: lighten(rgb(124, 255, 124), 5%);
+  font-family: "Open Sans";
+  font-size: 12px;
+  font-weight: 300;
+  color: #000000;
+  padding-right: 0.6em;
+  padding-left: 0.6em;
+  border-radius: 10rem;
+  span {
+    color: darken(rgb(124, 255, 124), 40%);
+  }
+}
+.hashtagPill.badge.badge-pill.badge-primary {
+  background-color: lighten(#a4d0ff, 5%);
+  font-family: "Open Sans";
+  font-size: 12px;
+  font-weight: 300;
+  color: #000000;
+  padding-right: 0.6em;
+  padding-left: 0.6em;
+  border-radius: 10rem;
+  span {
+    color: darken(#a4d0ff, 40%);
+  }
+}
+.hashtagPill.badge.badge-pill.badge-danger {
+  background-color: lighten(#ff8f9a, 5%);
+  font-family: "Open Sans";
+  font-size: 12px;
+  font-weight: 300;
+  color: #000000;
+  padding-right: 0.6em;
+  padding-left: 0.6em;
+  border-radius: 10rem;
+  span {
+    color: darken(#ff8f9a, 40%);
+  }
+}
